@@ -94,9 +94,17 @@ body{
     opacity: 0.1;
     background-color: #ffffff;;
 }
+
 /*new page*/
 
 .add-btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+
+/*edit page*/
+
+.edit-btn{
     background-color: #fe424d !important;
     border: none !important;
 }
