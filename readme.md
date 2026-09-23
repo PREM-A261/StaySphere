@@ -4,6 +4,8 @@
 
 **StaySphere** is a full-stack vacation rental marketplace web application (Airbnb alternative) built with Node.js, Express, MongoDB, EJS, and Bootstrap. It supports full listing management, dynamic image uploads with Cloudinary, interactive geolocation maps with Mapbox, review & rating systems, category filtering, and robust user authentication.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PREM-A261/StaySphere)
+
 ---
 
 ## ✨ Features
